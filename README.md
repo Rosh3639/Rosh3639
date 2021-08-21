@@ -50,7 +50,9 @@ Here are some ideas to get you started:
 
   
   
-  [![Rosh3639's github stats](https://github-readme-stats.vercel.app/api?username=Rosh3639)](https://github.com/rosh3639/github-readme-stats)
+  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=rosh3639&count_private=true&theme=tokyonight&showicons=true)]()
+  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rosh3639&langs_count=5&theme=tokyonight)]()
+
 </details>
 <br />
 
