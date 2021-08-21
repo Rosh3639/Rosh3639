@@ -2,14 +2,15 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Personal projects
-- 🌱 I’m currently learning ... Javascript frameworks along with vanilla js
-- 👯 I’m looking to collaborate on ... Fullstack devlopment
-- 🤔 I’m looking for help with ... Anything
-- 💬 Ask me about ... Anything related to tech stuff
-- 📫 How to reach me: ... rshnrasal@gmail.com
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ...I am Superman
+- 🔭 I’m currently working on ... Personal projects :star_struck:
+- 🌱 I’m currently learning ... Everything :joy:
+- 👯 I’m looking to collaborate on ... Fullstack devlopment :relaxed:
+- 🤔 I’m looking for help with ... Anything :lying_face:
+- 💬 Ask me about ... Anything related to tech stuff :nerd_face:	
+- 📫 How to reach me: ... rshnrasal@gmail.com :sleepy:
+- 😄 Pronouns: ... He/Him :hugs:
+- ⚡ Fun fact: ...I am Superman :laughing:
+:satisfied:
 ---
 <br />
 <br />
