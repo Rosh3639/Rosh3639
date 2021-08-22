@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-<img align="left" alt="Rosh3639 | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="Rosh3639 | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.linkedin.com/in/roshan-rasal-792a79184/"><img align="left" alt="Rosh3639 | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></img></a>
+
+<a href="#"><img align="left" alt="Rosh3639 | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
 <br />
 
