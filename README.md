@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Personal projects :star_struck:
 - 🌱 I’m currently learning ... Everything :joy:
-- 👯 I’m looking to collaborate on ... Fullstack devlopment :relaxed:
+- 👯 I’m looking to collaborate on ... Any web related project :relaxed:
 - 🤔 I’m looking for help with ... Anything :lying_face:
 - 💬 Ask me about ... Anything related to tech stuff :nerd_face:	
 - 📫 How to reach me: ... rshnrasal@gmail.com :sleepy:
