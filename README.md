@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Personal projects :star_struck:
-- 🌱 I’m currently learning ... Javascript :joy: :joy:
+- 🌱 I’m currently learning ... Data analysis :joy: :joy:
 - 👯 I’m looking to collaborate on ... Any web related project :relaxed:
 - 🤔 I’m looking for help with ... Anything :lying_face:
 - 💬 Ask me about ... Anything related to tech stuff :nerd_face:	
