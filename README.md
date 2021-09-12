@@ -1,4 +1,4 @@
-### Hi there, I'm Roshan aka (Rosh) 👋
+### Hi there, I'm Roshan aka (Rosh) 👋:nerd_face:	
 
 Here are some ideas to get you started:
 
