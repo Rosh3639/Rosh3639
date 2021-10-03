@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Personal projects :star_struck:
-- 🌱 I’m currently learning ... Data analysis, Java :nerd_face: :nerd_face:
+- 🌱 I’m currently learning ... Data Structures & Algorithms, Java :nerd_face: :nerd_face:
 - ⚡ :star_struck: I’m currently interning at microsoft 😄
 - 👯 I’m looking to collaborate on ... Any web related project :relaxed:
 - 🤔 I’m looking for help with ... Anything :lying_face:
